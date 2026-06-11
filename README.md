@@ -1,0 +1,2 @@
+# vrcghostexit
+特定ユーザがインスタンスに入ってきたらVRChatをkillするやつ
