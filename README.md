@@ -1,5 +1,8 @@
 # vrcghostexit
 特定ユーザがインスタンスに入ってきたらVRChatをkillするやつ
+
 config.json内、"watch_users"でユーザ名で指定、"watch_user_ids"でUUIDで指定
+
 複数指定可能
+
 ユーザ名で指定したほうが早くログが検知するはず
